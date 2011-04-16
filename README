@@ -1,0 +1,11 @@
+farcry twitter - a farcry plugin based off the public twitter api
+---------------------------------------------------------------------
+
+
+Overview
+--------
+
+* Requires farcry 5+
+* Tested on farcry 6.1 and Railo/Tomcat as well as ColdFusion 8
+* Currently only using the 'profile' view
+* Remember that twitter has rate limiting (150 requests per hour). FarCry caching will get around this though
